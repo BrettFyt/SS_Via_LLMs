@@ -1,0 +1,80 @@
+*********************************For English************************************************************************
+
+Single-shot:
+
+I want you to replace my complex sentence with simple sentence. Keep the meaning same, but make them simpler. 
+Complex: On the January 16 episode of Friday Night SmackDown, it was announced that Swagger would defend the ECW title against Hardy in a rematch at the Royal Rumble.
+Simple: In the January 16 Friday Night Smackdown show, they said that Swagger would fight Hardy again to keep the ECW title at the Royal Rumble.
+Complex: 
+Simple:
+
+Single-shot Multi-Refs：
+
+I want you to replace my complex sentence with simple sentences. Keep the meaning same, but make them simpler. 
+Complex: The name "hornet" is used for this and related species primarily because of their habit of making aerial nests (similar to the true hornets) rather than subterranean nests.
+Simple:
+"Hornet" is used for this and related species because of their habits making aerial nests, instead of subterranean.
+The name "hornet" is used for this and related species. This is mainly because they make aerial nests (similar to the true hornets) rather than subterranean nests.
+The name "hornet" is used for this and related species because they have a habit of making aerial nests rather than underground nests.
+They are called "hornet" because they make aerial nests (similar to the true hornets) rather than making subterranean nests.
+The name "hornet" is used for this and related species mainly because of their habit of making open-air nests (similar to true hornets) rather than underground nests.
+The name "hornet" is used for this and related species basically because of their habit of making up- in -the -air nests (similar to the true hornets) rather than in-the-ground nests.
+The name "hornet" is used for this and related species because they make aerial nests (similar to the true hornets) instead of subterranean nests.
+The name "hornet" is used for this and related species primarily because of their habit of making aerial nests rather than subterranean nests.
+
+Complex: Gable also earned an Academy Award nomination when he portrayed Fletcher Christian in 1935's Mutiny on the Bounty.
+Simple:
+
+*********************************For Spanish*************************************************************************
+
+Zero-shot：
+
+Quiero que reemplaces mis frases complejas por frases simples. Mantenga el significado sin cambios, pero Hágalo más simple.
+Complejo:
+Simple:
+
+-----------------------------------------
+
+Single-shot:
+
+Quiero que reemplaces mis frases complejas por frases simples. Mantenga el significado sin cambios, pero Hágalo más simple.
+Complejo: La Guardia Civil ha detenido en Ciudad Real a 16 personas a las que se acusa de robar cable de cobre de las líneas del tendido telefónico, lo que llegó a dejar incomunicadas a algunas localidades.
+Simple: Cuando robaron los cables, algunas localidades se quedaron sin teléfono.
+Complejo:
+Simple:
+
+-----------------------------------------
+
+Two-shot:
+
+Quiero que reemplaces mis frases complejas por frases simples. Mantenga el significado sin cambios, pero Hágalo más simple.
+Complejo: La Guardia Civil ha detenido en Ciudad Real a 16 personas a las que se acusa de robar cable de cobre de las líneas del tendido telefónico, lo que llegó a dejar incomunicadas a algunas localidades.
+Simple: Cuando robaron los cables, algunas localidades se quedaron sin teléfono.
+Complejo: "El viento fuerte llevó la mancha mar adentro y después se dispersó, creando fragmentos de crudo muy perniciosos", señala esta ONG.
+Simple: Según la organización, el viento extendió el petróleo.
+Complejo:
+Simple:
+
+
+*********************************For Portuguese*********************************************************************
+
+Single-shot：
+
+Quero que substituas a minha frase complexa por uma frase simples. Mantenha o mesmo significado, mas torne-os mais simples.
+Complexo: O(s) autor(es) e editor(es) do Documento não dão, por esta Licença, permissão para usar seus nomes para publicidade ou para afirmar ou implicar endosso de qualquer Versão Modificada.
+Simples: O autor e o editor da Licença não permitem o uso de seus nomes para publicidade e endosso de qualquer Versão Modificada.
+Complexo:
+Simples:
+
+------------------------------------------------
+
+Two-Shot：
+
+Quero que substituas a minha frase complexa por uma frase simples. Mantenha o mesmo significado, mas torne-os mais simples.
+Complexo: O(s) autor(es) e editor(es) do Documento não dão, por esta Licença, permissão para usar seus nomes para publicidade ou para afirmar ou implicar endosso de qualquer Versão Modificada.
+Simples: O autor e o editor da Licença não permitem o uso de seus nomes para publicidade e endosso de qualquer Versão Modificada.
+Complexo: A estréia recebeu uma classificação de 2,79, tornando-se o programa de maior audiência na TV a cabo em seu horário.
+Simples: A estreia obteve uma classificação de 2,79. O programa mais bem avaliado nesse intervalo de tempo do cabo.
+Complexo:
+Simples:
+
